@@ -6,7 +6,7 @@ const FORMSPREE_ID = import.meta.env.VITE_FORMSPREE_FORM_ID;
 
 const socialLinks = [
   {
-    href: "https://www.instagram.com/_heis_en_berg_",
+    href: "https://www.instagram.com/_heiz_en_berg_",
     label: "Instagram",
     icon: FaInstagram,
   },
